@@ -12,5 +12,6 @@ Install Guide:
 
 
 Example Command in commands.sh:
+
 Push all changes to git easily using
 `git_push "Commit Changes Message"`
